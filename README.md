@@ -1,6 +1,8 @@
 # BonusHW-Exercises
-Exercises
-Various C# Exercises :
+Exercises:
+
+Various C# Exercises:
+
 Task 1:
 Create a function to say whether a string is symmetric (a palindrome). For example, "RADAR" is a palindrome. Hint: try using recursion.
 
