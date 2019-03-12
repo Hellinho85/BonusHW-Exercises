@@ -1,0 +1,7 @@
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\BonusExercises\BonusExercises\bin\Debug\BonusExercises.exe.config
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\BonusExercises\BonusExercises\bin\Debug\BonusExercises.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\BonusExercises\BonusExercises\bin\Debug\BonusExercises.pdb
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\BonusExercises\BonusExercises\obj\Debug\BonusExercises.csprojAssemblyReference.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\BonusExercises\BonusExercises\obj\Debug\BonusExercises.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\BonusExercises\BonusExercises\obj\Debug\BonusExercises.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\BonusExercises\BonusExercises\obj\Debug\BonusExercises.pdb
